@@ -1,0 +1,6 @@
+C1 22000uF 60Hz Ripple 0.56V
+R1 240R RV1 5k -> Vout 0.60*(R1+RV1)/R1
+RV1 para 12V = 4560R
+R3 1R ativa TIP41 acima de 650mA
+P_Q1 17.4W P_R2 17.7W
+Final: 23.5V -> 11.9V / 1.49A
