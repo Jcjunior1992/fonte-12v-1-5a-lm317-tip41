@@ -7,6 +7,9 @@ Projeto debugado de 0.17V até 11.9V no Proteus.
 ## Esquemático Final
 Upload do seu print final aqui: FonteLinearAjustavel0-12V.PNG
 
+<img width="1957" height="1024" alt="FonteLinearAjustavel0-12V" src="https://github.com/user-attachments/assets/013e40c2-1827-4d54-a461-245e4c7fb6cb" />
+
+
 ## Ligação 
 VIN -> C1+/C2+/VI p3/Coletor TIP41/Catodo D1
 VO p1 -> Base TIP41 + R3 ESQ 1R
